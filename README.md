@@ -1,3 +1,6 @@
+# Taskbox
+- This repo was made while i go through the storybook tutorial for UI component management during the IT Project. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
